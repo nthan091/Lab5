@@ -1,0 +1,60 @@
+﻿  myFile.cpp
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(4,12): error C2011: 'color': 'enum' type redefinition
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(4): message : see declaration of 'color'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5,12): error C2011: 'Card': 'class' type redefinition
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(23,7): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(24,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(26,2): error C2065: 'col': undeclared identifier
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(27,2): error C2065: 'val': undeclared identifier
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(29,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(31,12): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(23,7): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(24,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(23,11): error C2084: function 'int {ctor}(color,int)' already has a body
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(23): message : see previous definition of '{ctor}'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(26,2): error C2065: 'col': undeclared identifier
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(27,2): error C2065: 'val': undeclared identifier
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(31,12): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(31,17): error C2084: function 'void write(void)' already has a body
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(31): message : see previous definition of 'write'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(5,16): error C2011: 'CardsSet': 'class' type redefinition
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(5): message : see declaration of 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(20,16): error C2027: use of undefined type 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(5): message : see declaration of 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(24,16): error C2027: use of undefined type 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(5): message : see declaration of 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(27,2): error C2065: 'number': undeclared identifier
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(30,3): error C2065: 'number': undeclared identifier
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(31,20): error C2065: 'number': undeclared identifier
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(36,16): error C2027: use of undefined type 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(5): message : see declaration of 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(36,23): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(36,20): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(37,13): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(40,16): error C2027: use of undefined type 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(5): message : see declaration of 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(40,19): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(43,16): error C2027: use of undefined type 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(5): message : see declaration of 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(43,31): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(43,22): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\CardsSet.h(44,13): error C2027: use of undefined type 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Card.h(5): message : see declaration of 'Card'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\myFile.cpp(10,11): error C2079: 'packet' uses undefined class 'CardsSet'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\myFile.cpp(11,27): error C2664: 'Player::Player(Player &&)': cannot convert argument 1 from 'int' to 'CardsSet &'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Player.h(4,2): message : see declaration of 'Player::Player'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\myFile.cpp(12,25): error C2664: 'Player::Player(Player &&)': cannot convert argument 1 from 'int' to 'CardsSet &'
+C:\Users\hayle\School\CSI2372\Lab5\Lab5_E2\Lab5 E2\Player.h(4,2): message : see declaration of 'Player::Player'
