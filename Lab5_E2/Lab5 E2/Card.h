@@ -19,7 +19,7 @@ Card::Card(color c, int v) {
 	val = v;
 }
 
-void Card::write()
-{
+void Card::write() {
+	cout << Card.c << " " << Card.v << endl; 
 }
 
